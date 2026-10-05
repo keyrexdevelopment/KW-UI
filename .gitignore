@@ -1,0 +1,15 @@
+# Lua scripts (local only - not tracked)
+*.lua
+
+# Roblox place files
+*.rbxlx
+*.rbxl
+
+# Licenses / docs not pushed
+LICENSE
+
+# OS / System files
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
